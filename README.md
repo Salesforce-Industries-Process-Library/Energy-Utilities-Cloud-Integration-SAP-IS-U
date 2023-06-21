@@ -1,5 +1,5 @@
 # Energy-Utilities-Cloud-Integration-SAP-IS-U
-Integratioh procedures and SF Metadata for integration to SAP IS-U
+Integration procedures and SF Metadata for integration to SAP IS-U
 
 These virtual processes and digital assets are Non-SFDC Applications and not part of your Services under your Master Subscription Agreement with Salesforce or any of its affiliates. They are provided as-is and not supported by Salesforce or any of its affiliates. By installing and using a virtual process, you agree to the **Process Library Installer Terms & Conditions.pdf** in this repository.
 
